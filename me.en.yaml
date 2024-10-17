@@ -10,9 +10,9 @@ basics:
     url: https://github.com/ruudko
     username: ruudko
   - network: Linkedin
-    url: https://www.linkedin.com/anakin
-    username: anakin
-  url: https://shaoner.com
+    url: https://nl.linkedin.com/in/ruudkoedooder
+    username: ruudkoedooder
+  url: https://koedooder.net
 education:
 - area: Bachelor Information Technology
   institution: De Haagse Hogeschool
@@ -34,25 +34,31 @@ projects:
   name: lightsaber
 skills:
 - keywords:
-  - Rust
-  - Python
+  - Java (11)
+  - Javascript
+  - HTML / CSS
   name: Languages
 - keywords:
-  - numpy
-  - Qt
+  - Documentum (22.1: D2, Composer, etc)
+  - Spring
+  - React
+  - Microprofile
+  - Junit / Mockito
   name: Frameworks/libraries
 - keywords:
-  - AWS
-  - docker
-  - kubernetes
+  - Docker
+  - Github CI/CD
+  - Bash scripting
+  - Jira / Confluence
   name: Devops
 - keywords:
-  - emacs
-  - Makefile
+  - IntelliJ
+  - Eclipse
+  - Composer
   name: Tools
 - keywords:
   - Linux
-  - FreeBSD
+  - Windows
   name: OS
 work:
 - highlights:
