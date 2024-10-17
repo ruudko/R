@@ -4,7 +4,7 @@ basics:
     city: Haarlem
     countryCode: NL
   name: Ruud Koedooder
-  phone: +31(0)651721890
+  phone: '+31(0)651721890'
   profiles:
   - network: Github
     url: https://github.com/ruudko
@@ -39,7 +39,7 @@ skills:
   - HTML / CSS
   name: Languages
 - keywords:
-  - Documentum (22.1 D2, Composer, etc)
+  - Documentum (22.1, D2, Composer, etc)
   - Spring
   - React
   - Microprofile
